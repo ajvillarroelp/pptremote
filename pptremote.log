@@ -1,0 +1,17 @@
+2019-04-02 21:46:04,990 - werkzeug - INFO -  * Running on http://0.0.0.0:5050/ (Press CTRL+C to quit)
+2019-04-02 21:53:17,583 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2019 21:53:17] "GET /startppt HTTP/1.1" 200 -
+Next command
+2019-04-02 21:53:24,440 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2019 21:53:24] "GET /next HTTP/1.1" 200 -
+Next command
+2019-04-02 21:53:39,283 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2019 21:53:39] "GET /next HTTP/1.1" 200 -
+Next command
+2019-04-02 21:53:41,581 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2019 21:53:41] "GET /next HTTP/1.1" 200 -
+Next command
+2019-04-02 21:54:04,583 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2019 21:54:04] "GET /next HTTP/1.1" 200 -
+Next command
+2019-04-02 21:58:03,372 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2019 21:58:03] "GET /next HTTP/1.1" 200 -
+2019-04-02 21:59:05,876 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2019 21:59:05] "GET /exit HTTP/1.1" 404 -
+2019-04-02 22:00:03,835 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2019 22:00:03] "GET /exit HTTP/1.1" 404 -
+Next command
+2019-04-02 22:00:27,860 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2019 22:00:27] "GET /next HTTP/1.1" 200 -
+2019-04-02 22:00:35,925 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2019 22:00:35] "GET /exit HTTP/1.1" 404 -
